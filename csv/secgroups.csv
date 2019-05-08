@@ -1,0 +1,5 @@
+Name,GroupScope,Path,ParentGroup
+secCartoons,Global,"OU=ouCartoons,DC=yoosungm,DC=lab",
+secFamilyGuy,Global,"OU=ouFamilyGuy,OU=ouCartoons,DC=yoosungm,DC=lab",secCartoons
+secSimpsons,Global,"OU=ouSimpsons,OU=ouCartoons,DC=yoosungm,DC=lab",secCartoons
+secFuturama,Global,"OU=ouFuturama,OU=ouCartoons,DC=yoosungm,DC=lab",secCartoons

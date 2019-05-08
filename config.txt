@@ -1,0 +1,4 @@
+ConfigVars
+ShareName=Cartoons
+SharePath=c:\Cartoons
+ShareGroupAccess=secCartoons

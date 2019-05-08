@@ -1,0 +1,4 @@
+GPOName,TargetOUPath
+gpoFamilyGuyWallpaper,"OU=ouFamilyGuy,OU=ouCartoons,DC=yoosungm,DC=lab"
+gpoFuturamaWallpaper,"OU=ouFuturama,OU=ouCartoons,DC=yoosungm,DC=lab"
+gpoSimpsonsWallpaper,"OU=ouSimpsons,OU=ouCartoons,DC=yoosungm,DC=lab"

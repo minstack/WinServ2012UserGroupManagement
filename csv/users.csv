@@ -1,0 +1,7 @@
+Username,UPN,GivenName,Surname,DisplayName,Path,Password,Group
+homer,"homer@yoosungm.lab",Homer,Simpson,"Homer Simpson","OU=ouSimpsons,OU=ouCartoons,DC=yoosungm,DC=lab",P@ssword1,Simpsons
+bart,"bart@yoosungm.lab",Bart,Simpson,"Bart Simpson","OU=ouSimpsons,OU=ouCartoons,DC=yoosungm,DC=lab",P@ssword1,Simpsons
+peter,"peter@yoosungm.lab",Peter,Griffin,"Peter Griffin","OU=ouFamilyGuy,OU=ouCartoons,DC=yoosungm,DC=lab",P@ssword1,FamilyGuy
+stewie,"stewie@yoosungm.lab",Stewie,Griffin,"Stewie Griffin","OU=ouFamilyGuy,OU=ouCartoons,DC=yoosungm,DC=lab",P@ssword1,FamilyGuy
+bender,"bender@yoosungm.lab",Bender,Bending,"Bender","OU=ouFuturama,OU=ouCartoons,DC=yoosungm,DC=lab",P@ssword1,Futurama
+philip,"philip@yoosungm.lab",Philip,Fry,"Fry","OU=ouFuturama,OU=ouCartoons,DC=yoosungm,DC=lab",P@ssword1,Futurama
